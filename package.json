@@ -1,0 +1,23 @@
+{
+  "name": "nodePrj",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "express.js",
+  "dependencies": {
+    "bluebird": "~3.1.1",
+    "express": "~4.13.3",
+    "redis": "~2.4.2",
+    "websocket": "~1.0.22",
+    "ws": "~1.0.0",
+    "grunt-cli": "~0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
